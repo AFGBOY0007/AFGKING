@@ -4,4 +4,4 @@ cd AFGKING
 
 ls
 
-python AFG.py
+python BADBOY.py
